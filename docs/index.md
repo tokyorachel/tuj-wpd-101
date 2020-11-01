@@ -6,3 +6,4 @@
 - [Week 4](week4-pub.html)
 - [Week 5](week5-pub.html)
 - [Week 6](week6-pub.html)
+- [Week 7](week7-pub.html)
